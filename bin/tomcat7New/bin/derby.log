@@ -1,0 +1,30 @@
+----------------------------------------------------------------
+2015-02-02 10:49:44.942 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-014b-49e9-0c16-00000ab37070
+on database directory C:\zitco-test\tomcat7New\bin\jackrabbit\version\db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2015-02-02 10:49:47.099 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 888c4022-014b-49e9-0c16-00000ab37070
+on database directory C:\zitco-test\tomcat7New\bin\jackrabbit\workspaces\default\db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2015-02-02 10:49:49.520 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6965c036-014b-49e9-0c16-00000ab37070
+on database directory C:\zitco-test\tomcat7New\bin\jackrabbit\workspaces\security\db  
+
+Database Class Loader started - derby.database.classpath=''
+
+2015-02-02 11:03:27.837 GMT:
+Shutting down instance 888c4022-014b-49e9-0c16-00000ab37070
+----------------------------------------------------------------
+
+2015-02-02 11:03:28.537 GMT:
+Shutting down instance 6965c036-014b-49e9-0c16-00000ab37070
+----------------------------------------------------------------
+
+2015-02-02 11:03:29.285 GMT:
+Shutting down instance a816c00e-014b-49e9-0c16-00000ab37070
+----------------------------------------------------------------

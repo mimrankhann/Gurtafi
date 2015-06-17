@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.customer.Customer" table="customer" >
+        <id name="customerId" type="Integer">
+            <column name="customerId" length="50" not-null="true"/>
+            <generator class="identity" />
+        </id>
+        <property name="customerName" type="string">
+            <column name="customerName" length="30" not-null="true" />
+        </property>
+        
+        <property name="customerShortName" type="string">
+            <column name="customerShortName" length="30" not-null="true" />
+        </property>
+        
+        <property name="customerAddress" type="string">
+            <column name="customerAddress" length="30" not-null="true" />
+        </property>
+        <property name="customerPhone" type="string">
+            <column name="customerPhone" length="30" not-null="true" />
+        </property>
+        <property name="customerEmail" type="string">
+            <column name="customerEmai" length="30" not-null="true" />
+        </property>
+        <property name="customerNTN" type="string">
+            <column name="customerAddress" length="30" not-null="true" />
+        </property>
+        
+    </class>
+</hibernate-mapping>

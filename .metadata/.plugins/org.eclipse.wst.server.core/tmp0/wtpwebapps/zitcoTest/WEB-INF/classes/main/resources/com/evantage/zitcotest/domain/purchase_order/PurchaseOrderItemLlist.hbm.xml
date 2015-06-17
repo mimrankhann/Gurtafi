@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order.PurchaseOrderItemList" table="purchase_order_item_list" >
+        <id name="purchaser_order_item_list_id" type="Integer">
+            <column name="purchaser_order_item_list_id" length="30" />
+            <generator class="identity" /> 
+        </id>
+         
+        <property name="item_name" type="String">
+            <column name="item_name" length="30"/>
+        </property>
+        
+        <property name="item_quantity" type="Integer">
+            <column name="item_quantity" length="30"/>
+        </property>
+        
+        <property name="item_price" type="Integer">
+            <column name="item_price" length="30"/>
+        </property>
+         
+       <!--    
+        <property name="po_id" type="Integer">
+            <column name="po_id" length="30"/>
+        </property>
+        -->
+    </class>
+</hibernate-mapping>

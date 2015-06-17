@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order_status_updation.PurchaseOrderUploadFile" table="purchase_order_upload_file" >
+        <id name="po_file_upload_id" type="Integer" >
+            <column name="po_file_upload_id" length="30" />
+            <generator class="identity" />
+        </id>
+         
+         <property name="po_file_upload_type" type="String">
+            <column name="po_file_upload_type" length="50"/>
+        </property>
+        
+         <property name="po_file_upload_date" type="date">
+            <column name="po_file_upload_date" />
+        </property>
+         <property name="po_file_upload_url" type="String">
+            <column name="po_file_upload_url" length="50"/>
+        </property>
+        <property name="po_file_upload_number" type="String">
+            <column name="po_file_upload_number" length="50"/>
+        </property>
+        
+         <property name="po_status_updation_id" type="Integer">
+            <column name="po_status_updation_id" length="30"/>
+        </property>
+        
+    </class>
+</hibernate-mapping>

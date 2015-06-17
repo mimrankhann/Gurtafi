@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order_status_updation.FileUploadTypes" table="file_upload_types" >
+        <id name="file_upload_type_id" type="Integer" >
+            <column name="file_upload_type_id" length="30" />
+            <generator class="identity" />
+        </id>
+         
+         <property name="file_upload_type" type="String">
+            <column name="file_upload_type" length="50"/>
+        </property>
+         
+    </class>
+</hibernate-mapping>

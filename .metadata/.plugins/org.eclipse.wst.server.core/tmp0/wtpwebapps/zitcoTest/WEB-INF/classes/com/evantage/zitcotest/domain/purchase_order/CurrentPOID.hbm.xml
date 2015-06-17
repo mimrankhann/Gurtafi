@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order.CurrentPOID" table="current_po_id" >
+      
+      
+        <id name="id" type="Integer">
+            <column name="id" length="30" />
+        </id>
+          
+        <property name="current_po_id" type="Integer">
+            <column name="current_po_id" length="30"/>
+        </property>
+         
+    </class>
+</hibernate-mapping>

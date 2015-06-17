@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>       
+  <session-factory>
+    <!-- Database connection settings  - Starts -->
+    <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="connection.url">jdbc:mysql://localhost:3306/zitco</property>
+    <property name="connection.username">root</property>
+    <property name="connection.password">admin</property>
+    <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+    <property name="show_sql">true</property>
+    <!-- Database connection settings  - Ends -->
+    
+    
+    <!-- Beans Mapping settings  - Starts --> 
+    <mapping class="com.evantage.zitcotest.domain.customer.Customer" />
+    <mapping class="com.evantage.zitcotest.domain.supplier.Supplier"/> 
+    <mapping class="com.evantage.zitcotest.domain.product.SupplierProduct" />  
+   <!--   <mapping class="com.evantage.zitcotest.domain.product.ProductType"/> -->
+    <mapping class="com.evantage.zitcotest.domain.configure.Configure"/>
+    <mapping class="com.evantage.zitcotest.domain.user.User"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.PurchaseOrder"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.Currency"/>
+    
+    <mapping class="com.evantage.zitcotest.domain.purchase_order_status_updation.PurchaseOrderStatusUpdation"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order_status_updation.PurchaseOrderStatusTypes"/>
+	<mapping class="com.evantage.zitcotest.domain.purchase_order_status_updation.FileUploadTypes"/>
+	<mapping class="com.evantage.zitcotest.domain.purchase_order_status_updation.PurchaseOrderUploadFile"/>
+	
+	<mapping class="com.evantage.zitcotest.domain.purchase_order.Item"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.TempItem"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.SelectedItems"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.PurchaseOrderItemList"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.PurchaseOrderPaymentTerms"/>
+    <mapping class="com.evantage.zitcotest.domain.purchase_order.CurrentPOID"/>
+
+    <!-- Beans Mapping settings  - Ends --> 
+  </session-factory>
+</hibernate-configuration>

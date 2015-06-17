@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order.PurchaseOrderPaymentTerms" table="po_payment_terms" >
+        <id name="po_payment_terms_id" type="Integer">
+            <column name="po_payment_terms_id" length="30" />
+            <generator class="identity" />
+        </id>
+         
+        <property name="po_payment_terms" type="string">
+            <column name="po_payment_terms" length="30"/>
+        </property>
+        
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order.PurchaseOrder" table="purchase_order" >
+        <id name="po_id" type="Integer" >
+            <column name="po_id" length="30" />
+            <generator class="identity" />
+        </id>
+         
+         <property name="po_number" type="String">
+            <column name="po_number" length="50"/>
+        </property>
+         
+         <property name="po_status_type_id" type="Integer">
+            <column name="po_status_type_id" length="30"/>
+        </property>
+        
+        <property name="po_status_type" type="Integer">
+            <column name="po_status_type" length="30"/>
+        </property>
+        
+        <property name="currency_name" type="String">
+            <column name="currency_name" length="50"/>
+        </property>
+        
+        <property name="currency_id" type="Integer">
+            <column name="currency_id" length="30"/>
+        </property>
+         
+        <property name="supplier_name" type="String">
+            <column name="supplierName" length="50"/>
+        </property>
+        
+        <property name="supplier_id" type="Integer">
+            <column name="supplier_id" length="50"/>
+        </property>
+        
+        <property name="customer_name" type="String">
+            <column name="customer_name" length="50"/>
+        </property>
+        
+         <property name="customer_id" type="Integer">
+            <column name="customer_id" length="50"/>
+        </property>
+        
+        <property name="po_date" type="timestamp">
+            <column name="po_date"  />
+        </property>
+        <property name="payment_terms" type="String">
+            <column name="payment_terms" length="50"/>
+        </property>
+        
+        <property name="po_payment_terms_id" type="Integer">
+            <column name="po_payment_terms_id" length="30"/>
+        </property>
+        
+        <property name="payment_due_date" type="timestamp">
+            <column name="payment_due_date" />
+        </property>
+
+        <property name="commission" type="Integer">
+            <column name="commission" />
+        </property>
+        
+        <property name="po_total_amount" type="Integer">
+            <column name="po_total_amount" length="50"/>
+        </property>
+        
+        <!-- 
+        <property name="po_attachment" type="String">
+            <column name="po_attachment" length="30"/>
+        </property>
+         -->        
+    </class>
+</hibernate-mapping>

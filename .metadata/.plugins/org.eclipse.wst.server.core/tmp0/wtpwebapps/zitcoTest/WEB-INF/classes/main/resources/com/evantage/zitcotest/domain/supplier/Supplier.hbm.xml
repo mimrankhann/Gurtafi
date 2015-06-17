@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.supplier.Supplier" table="supplier" >
+        <id name="supplier_id" type="Integer">
+            <column name="supplier_id" />
+            <!-- <generator class="identity" />   -->  
+        </id>
+        <property name="supplier_name" type="string">
+            <column name="supplier_name" length="30" not-null="true" />
+        </property>
+        
+        <property name="supplier_short_name" type="string">
+            <column name="supplier_short_name" length="30" not-null="true" />
+        </property>
+        
+        <property name="supplier_address" type="string">
+            <column name="supplier_address" length="30" not-null="true" />
+        </property>
+        <property name="supplier_phone" type="string">
+            <column name="supplier_phone" length="30" not-null="true" />
+        </property>
+        <property name="supplier_email" type="string">
+            <column name="supplier_email" length="30" not-null="true" />
+        </property>
+        <property name="supplier_NTN" type="string">
+            <column name="supplier_NTN" length="20" not-null="true" />
+        </property>
+        
+    </class>
+</hibernate-mapping>

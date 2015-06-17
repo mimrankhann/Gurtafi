@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order_status_updation.PurchaseOrderStatusUpdation" table="purchase_order_status_updation" >
+        <id name="po_status_updation_id" type="Integer" >
+            <column name="po_status_updation_id" length="30" />
+            <generator class="identity" />
+        </id>
+         
+        <property name="po_status" type="String">
+            <column name="po_status" length="50"/>
+        </property>
+        
+        <property name="po_status_id" type="Integer">
+            <column name="po_status_id" length="30"/>
+        </property>
+         
+        <property name="shipment_timeline" type="String">
+            <column name="shipment_timeline" length="50"/>
+        </property>
+        
+        <property name="EDD" type="timestamp">
+            <column name="EDD" length="50"/>
+        </property>
+        
+        <property name="EDA" type="timestamp">
+            <column name="EDA" length="50"/>
+        </property>
+        
+         <property name="po_id" type="Integer">
+            <column name="po_id" length="50"/>
+        </property>
+        
+    </class>
+</hibernate-mapping>

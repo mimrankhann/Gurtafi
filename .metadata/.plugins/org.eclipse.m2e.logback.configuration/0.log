@@ -1,0 +1,189 @@
+2015-02-04 15:01:52,166 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:02:08,381 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:02:17,091 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:02:24,381 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:02:24,412 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:02:24,459 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:02:25,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:02:25,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:02:31,068 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:02:32,697 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:04:42,135 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:04:47,852 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:04:49,606 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:04:50,868 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:04:51,002 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:04:51,150 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:04:51,168 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:06:12,632 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:06:20,237 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:06:20,247 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:06:20,396 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:06:20,397 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:27:37,617 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:27:42,360 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:27:42,469 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:27:42,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:27:42,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:28:15,922 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:28:28,747 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:28:28,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:28:28,905 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:28:28,905 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:32:02,712 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:32:04,688 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:32:06,633 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:32:08,238 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:32:08,270 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:32:08,441 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:32:08,441 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:33:41,490 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:33:43,016 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:33:44,923 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:33:46,151 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:33:46,171 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:33:46,288 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:33:46,288 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:33:57,190 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:34:05,759 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:34:05,766 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:34:05,888 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:34:05,889 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:40:14,090 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:40:24,592 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:40:26,615 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:40:27,958 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:40:27,981 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:40:28,126 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:40:28,126 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:40:32,906 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:40:53,801 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:40:53,808 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:40:53,965 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:40:53,965 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:41:36,158 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:41:43,029 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:41:43,037 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:41:43,285 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:41:43,285 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:42:41,394 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:42:44,667 [Worker-13] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:42:46,291 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/1/vv/7.3.3/vv-7.3.3.pom
+2015-02-04 15:42:46,407 [Worker-13] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:42:51,050 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/1/vv/7.3.3/vv-7.3.3.pom
+2015-02-04 15:42:51,070 [Worker-13] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:42:51,924 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/1/vv/7.3.3/vv-7.3.3.pom
+2015-02-04 15:42:51,936 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.1:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:42:52,300 [Worker-13] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:42:52,872 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/1/vv/7.3.3/vv-7.3.3.jar
+2015-02-04 15:42:52,908 [Worker-13] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:42:54,752 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/1/vv/7.3.3/vv-7.3.3.jar
+2015-02-04 15:42:54,788 [Worker-13] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:42:55,376 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/1/vv/7.3.3/vv-7.3.3.jar
+2015-02-04 15:42:57,698 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.1:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:43:00,907 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:43:02,255 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:02,832 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/1/vv/7.3.1/vv-7.3.1.pom
+2015-02-04 15:43:02,980 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:04,709 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/1/vv/7.3.1/vv-7.3.1.pom
+2015-02-04 15:43:04,725 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:05,217 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/1/vv/7.3.1/vv-7.3.1.pom
+2015-02-04 15:43:05,229 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.1:vv:jar:7.3.1 is missing, no dependency information available
+2015-02-04 15:43:05,609 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:06,146 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/1/vv/7.3.1/vv-7.3.1.jar
+2015-02-04 15:43:06,194 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:07,896 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/1/vv/7.3.1/vv-7.3.1.jar
+2015-02-04 15:43:07,912 [Worker-24] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:08,420 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/1/vv/7.3.1/vv-7.3.1.jar
+2015-02-04 15:43:10,256 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.1:vv:jar:7.3.1 is missing, no dependency information available
+2015-02-04 15:43:41,615 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:43:43,194 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:43,977 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/4/vv/7.3.1/vv-7.3.1.pom
+2015-02-04 15:43:44,086 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:45,854 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/4/vv/7.3.1/vv-7.3.1.pom
+2015-02-04 15:43:45,870 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:46,683 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/4/vv/7.3.1/vv-7.3.1.pom
+2015-02-04 15:43:46,698 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.4:vv:jar:7.3.1 is missing, no dependency information available
+2015-02-04 15:43:47,058 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:47,636 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/4/vv/7.3.1/vv-7.3.1.jar
+2015-02-04 15:43:47,683 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:50,689 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/4/vv/7.3.1/vv-7.3.1.jar
+2015-02-04 15:43:50,705 [Worker-21] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:51,221 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/4/vv/7.3.1/vv-7.3.1.jar
+2015-02-04 15:43:52,946 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.4:vv:jar:7.3.1 is missing, no dependency information available
+2015-02-04 15:43:55,465 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:43:56,778 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:57,325 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/4/vv/7.3.4/vv-7.3.4.pom
+2015-02-04 15:43:57,419 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:59,122 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/4/vv/7.3.4/vv-7.3.4.pom
+2015-02-04 15:43:59,138 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:43:59,685 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/4/vv/7.3.4/vv-7.3.4.pom
+2015-02-04 15:43:59,701 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.4:vv:jar:7.3.4 is missing, no dependency information available
+2015-02-04 15:44:00,147 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:44:00,733 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.vaadin.com/vaadin-addons/vaadin 7/3/4/vv/7.3.4/vv-7.3.4.jar
+2015-02-04 15:44:00,873 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:44:02,733 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/vaadin/vaadin 7/3/4/vv/7.3.4/vv-7.3.4.jar
+2015-02-04 15:44:02,827 [Worker-22] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-02-04 15:44:03,327 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/vaadin 7/3/4/vv/7.3.4/vv-7.3.4.jar
+2015-02-04 15:44:05,012 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.4:vv:jar:7.3.4 is missing, no dependency information available
+2015-02-04 15:44:25,001 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:44:26,101 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:44:27,939 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:46:59,695 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-04 15:47:00,742 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:47:02,288 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:47:03,900 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:47:05,042 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zitcoTest/src
+2015-02-04 15:47:05,042 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /zitcoTest/src/main/resources overlaps with sources folder /zitcoTest/src
+2015-02-04 15:47:05,042 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /zitcoTest/src/test/java because it overlaps with /zitcoTest/src
+2015-02-04 15:47:38,420 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:47:38,435 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 38 sec
+2015-02-04 15:47:38,795 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:47:40,257 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:47:42,170 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:48:34,944 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:48:36,279 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:48:36,288 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:48:36,524 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:48:36,524 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:50:48,370 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:50:53,513 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:50:55,284 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.3:vv:jar:7.3.3 is missing, no dependency information available
+2015-02-04 15:51:04,168 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:51:04,908 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:51:04,923 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:51:05,126 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:51:05,126 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:51:49,065 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:51:54,399 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.4:vv:jar:7.3.4 is missing, no dependency information available
+2015-02-04 15:51:56,088 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for vaadin 7.3.4:vv:jar:7.3.4 is missing, no dependency information available
+2015-02-04 15:52:47,268 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.
+2015-02-04 15:53:05,123 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:53:24,667 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:53:24,674 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:53:24,777 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:53:24,777 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 15:59:36,720 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 15:59:51,639 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:59:51,647 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 15:59:51,783 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 15:59:51,783 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 16:00:30,028 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\IMRAN KHAN\zitco-test
+2015-02-04 16:00:30,029 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-02-04 16:01:39,225 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 16:01:39,233 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 16:01:39,365 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 16:01:39,365 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 16:01:58,359 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\IMRAN KHAN\zitco-test
+2015-02-04 16:01:58,360 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-02-04 16:18:16,411 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 16:18:36,954 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 16:18:36,961 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 16:18:37,062 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 16:18:37,062 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 16:19:50,808 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zitcoTest
+2015-02-04 16:20:00,879 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 16:20:00,887 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 21 resources
+2015-02-04 16:20:00,999 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 16:20:00,999 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\IMRAN KHAN\zitco-test\src\test\resources
+2015-02-04 16:20:58,270 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: zitcoTest:zitcoTest:0.0.1-SNAPSHOT @ C:\Users\IMRAN KHAN\zitco-test\pom.xml.

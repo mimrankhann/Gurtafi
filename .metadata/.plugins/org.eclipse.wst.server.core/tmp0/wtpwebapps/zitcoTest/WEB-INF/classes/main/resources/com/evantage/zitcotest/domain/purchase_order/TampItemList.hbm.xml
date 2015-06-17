@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.evantage.zitcotest.domain.purchase_order.TempItem" table="temp_item_list" >
+        <id name="id" type="Integer">
+            <column name="id" length="10" />
+            <!-- <generator class="identity" /> -->
+        </id>
+         
+        <property name="name" type="string">
+            <column name="name" length="10"/>
+        </property>
+        
+        <property name="quantity" type="Integer">
+            <column name="quantity" length="10"/>
+        </property>
+        
+    </class>
+</hibernate-mapping>

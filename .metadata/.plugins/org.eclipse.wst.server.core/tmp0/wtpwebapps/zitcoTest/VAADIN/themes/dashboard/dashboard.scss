@@ -1,0 +1,60 @@
+@import "../valo/valo";
+@import "common";
+@import "views/login";
+@import "views/dashboardview";
+@import "views/schedule";
+@import "views/sales";
+@import "views/transactions";
+@import "views/reports";
+
+// Optimize the CSS output
+$v-included-components: remove($v-included-components, accordion);
+$v-included-components: remove($v-included-components, colorpicker);
+$v-included-components: remove($v-included-components, grid);
+$v-included-components: remove($v-included-components, popupview);
+$v-included-components: remove($v-included-components, progressbar);
+$v-included-components: remove($v-included-components, slider);
+$v-included-components: remove($v-included-components, splitpanel);
+$v-included-components: remove($v-included-components, tree);
+$v-included-components: remove($v-included-components, treetable);
+$v-included-components: remove($v-included-components, twincolselect);
+
+// Main layout padding
+$view-padding: round($v-unit-size / 1.5) !default;
+
+// Slight adjustment to menu background-color
+$valo-menu-background-color: #414B56;
+
+@mixin dashboard {
+  @include valo;
+  @include dashboard-common;
+  @include dashboard-login-view;
+  @include dashboard-dashboard-view;
+  @include dashboard-schedule-view;
+  @include dashboard-sales-view;
+  @include dashboard-transactions-view;
+  @include dashboard-reports-view;
+  
+  
+.v-table-row.v-table-row-highlight-green,
+.v-table-row-odd.v-table-row-highlight-green {
+  background-color: #AFEEEE;
+}
+
+.v-table-row.v-table-row-highlight-red,
+.v-table-row-odd.v-table-row-highlight-red {
+  background-color: #F08080;
+} 
+
+.v-table-row.v-table-row-highlight-yellow,
+.v-table-row-odd.v-table-row-highlight-yellow {
+  background-color: #F0E68C;
+}
+
+.v-table-row.v-table-row-highlight-purple,
+.v-table-row-odd.v-table-row-highlight-purple {
+  background-color: #FFC0CB;
+}
+  
+  
+}
